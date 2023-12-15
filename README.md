@@ -1,6 +1,6 @@
 # Gemini AI Demo
 
-This Android app shows a demo of a chat with Gemini AI.
+This Android app shows a demo of a chat with Gemini.
 
 # Technologies used in this demo:
 * Kotlin
