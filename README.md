@@ -1,4 +1,4 @@
-# Gemini AI Demo
+# Gemini Demo
 
 This Android app shows a demo of a chat with Gemini.
 
